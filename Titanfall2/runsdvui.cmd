@@ -1,0 +1,2 @@
+cd /d "C:\Users\Shadow\source\repos\Titanfall2\Titanfall2" &msbuild "Titanfall2.vcxproj" /t:sdvViewer /p:configuration="Debug" /p:platform="x64" /p:SolutionDir="C:\Users\Shadow\source\repos\Titanfall2" 
+exit %errorlevel% 
